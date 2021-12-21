@@ -1,6 +1,6 @@
 # tsParticles Preset Halloween Bats
 
-[![jsDelivr](https://data.jsdelivr.com/v1/package/npm/tsparticles-preset-halloween-bats/badge?style=rounded)](https://www.jsdelivr.com/package/npm/tsparticles-preset-halloween-bats) [![npmjs](https://badge.fury.io/js/tsparticles-preset-halloween-bats.svg)](https://www.npmjs.com/package/tsparticles-preset-halloween-bats) [![npm](https://img.shields.io/npm/dm/tsparticles-preset-halloween-bats)](https://www.npmjs.com/packagetsparticles-preset-halloween-bats)
+[![jsDelivr](https://data.jsdelivr.com/v1/package/npm/tsparticles-preset-halloween-bats/badge?style=rounded)](https://www.jsdelivr.com/package/npm/tsparticles-preset-halloween-bats) [![npmjs](https://badge.fury.io/js/tsparticles-preset-halloween-bats.svg)](https://www.npmjs.com/package/tsparticles-preset-halloween-bats) [![npm](https://img.shields.io/npm/dm/tsparticles-preset-halloween-bats)](https://www.npmjs.com/package/tsparticles-preset-halloween-bats)
 
 ## Sample
 
