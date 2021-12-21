@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "tsparticles": "^1.37.5"
+  },
+  "name": "tsparticles-preset-halloween-bats",
+  "version": "1.0.0",
+  "description": "tsParticles halloween bats Preset",
+  "main": "src/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tsparticles",
+    "particles.js",
+    "particles-ts",
+    "particles.ts",
+    "typescript",
+    "javascript",
+    "web",
+    "html5",
+    "web-design",
+    "webdesign",
+    "css",
+    "html",
+    "css3",
+    "animated",
+    "background",
+    "tsparticles-preset"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bibidentuhanoi/tsparticles-preset-halloween-bats.git"
+  },
+  "author": "bibidentuhanoi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bibidentuhanoi/tsparticles-preset-halloween-bats/issues"
+  },
+  "homepage": "https://github.com/bibidentuhanoi/tsparticles-preset-halloween-bats#readme"
+}
